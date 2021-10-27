@@ -205,7 +205,16 @@ section{
     letter-spacing: 2px;
     font-family: sans-serif;
     resize: none;
-
+}
+.form-btn{
+    margin-top:2.5rem;
+    cursor: pointer;
+}
+.btn-purple{
+    background-color:var(--purple-solid);
+}
+.btn-purple:hover{
+    background-color:#56247f;
 }
 
 
